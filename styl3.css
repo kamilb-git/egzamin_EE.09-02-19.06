@@ -1,0 +1,36 @@
+body{
+    font-family: Helvetica;
+}
+
+.hl, .sl{
+    background: rgb(130, 69, 85);
+    color: white;
+    width: 30%;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+
+.hp, .sp{
+    background: rgb(130, 69, 85);
+    color: white;
+    width: 70%;
+    height: 200px;
+    text-align: center;
+    float: left;
+}
+
+main, footer{
+    background:  rgb(240, 234, 226);
+    padding: 120px;
+}
+
+table, td{
+    border: 1px solid rgb(130, 69, 85);
+    color: rgb(130, 69, 85);
+    padding: 10px;
+}
+
+a{
+    color: rgb(240, 234, 226);
+}
